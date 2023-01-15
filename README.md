@@ -1,4 +1,4 @@
-# ${1:Bootstrap LinkedIn Clone}
+# Bootstrap LinkedIn Clone
 
 Made for Patika.dev Bootstrap education.
 
